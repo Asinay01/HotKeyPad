@@ -1,0 +1,18 @@
+{
+    "1": [["enter"], "hotkey"],
+    "2": ["BloodTrail ", "text"],
+    "3": ["scpemiLol ", "text"],
+    "4": ["scpemiSwag ", "text"],
+    "5": ["scpemi4e ", "text"],
+    "6": ["scpemiCry ", "text"],
+    "7": ["scpemiMeow ", "text"],
+    "8": ["scpemiHello ", "text"],
+    "9": [["volume mute"], "hotkey"],
+    "10": [["play/pause media"], "hotkey"],
+    "11": [["volume up"], "hotkey"],
+    "12": ["/shoutout @", "text"],
+    "13": [["previous track"], "hotkey"],
+    "14": [["next track"], "hotkey"],
+    "15": [["volume down"], "hotkey"],
+    "16": [["page down"], "hotkey"]
+}
